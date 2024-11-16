@@ -28,8 +28,9 @@ A Node.js project using Express to create a RESTful API for retrieving user data
 ## How to Run
 
 1. Install dependencies: `npm install`  
-2. Start the server: `node index.js`  
-3. Access the API at `http://localhost:5000`.  
+2. Start the server: `node index.js`
+   or `npm run start` (nodemon) or `npm run dev `  
+4. Access the API at `http://localhost:5000`.  
 
 ---
 
