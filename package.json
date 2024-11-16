@@ -1,0 +1,21 @@
+{
+  "name": "rest-api-assignment",
+  "version": "1.0.0",
+  "description": " BUILDING A BASIC RESTFUL API TO RETRIEVE USER DATA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "REST",
+    "API"
+  ],
+  "author": "Nana Bentil Saah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
